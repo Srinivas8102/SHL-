@@ -1,0 +1,6 @@
+{
+  "name": "SHL Assessment Recommender",
+  "description": "A production-ready conversational assistant to find, compare, and shortlist SHL Individual Test Solutions using AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
